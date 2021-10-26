@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: url(../src/assest/background2.png);
+  background-attachment:cover !important;
+  background-repeat: no-repeat;
+
+ /* background: #abbaab;  
+  background: -webkit-linear-gradient(to top, #ffffff, #abbaab); 
+  background: linear-gradient(to top, #ffffff, #abbaab); 
+  background-attachment:cover;
+  background-repeat: no-repeat;*/
 }
 
 code {

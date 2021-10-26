@@ -1,0 +1,14 @@
+.form-group{
+    padding-left: 24px !important;
+}
+.forms{
+    border: 0 !important;
+    border-bottom: 1px solid #000 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+}
+input:focus {
+    outline:none !important;
+    background: transparent;
+ }
+
